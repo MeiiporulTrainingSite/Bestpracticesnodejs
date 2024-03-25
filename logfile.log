@@ -320,3 +320,29 @@
 2024-03-25T09:41:38.661Z - info: MongoDB connected
 2024-03-25T09:41:43.225Z - info: MongoDB connected
 2024-03-25T09:43:20.851Z - info: MongoDB connected
+2024-03-25T13:26:40.987Z - info: MongoDB connected
+2024-03-25T13:28:32.299Z - info: Patient admitted successfully
+2024-03-25T13:44:00.806Z - info: Patient admitted successfully
+2024-03-25T15:11:34.572Z - info: MongoDB connected
+2024-03-25T15:23:46.751Z - info: MongoDB connected
+2024-03-25T15:26:23.060Z - error: Invalid Patient Not Found
+2024-03-25T15:26:42.213Z - info: MongoDB connected
+2024-03-25T15:34:19.467Z - info: MongoDB connected
+2024-03-25T15:34:22.802Z - error: Bad Request
+2024-03-25T15:35:02.043Z - info: Added beds successfully
+2024-03-25T15:35:44.683Z - error: Bad Request
+2024-03-25T15:38:06.274Z - info: Patient admitted successfully
+2024-03-25T16:14:28.128Z - info: MongoDB connected
+2024-03-25T16:14:31.338Z - error: Not Found
+2024-03-25T16:14:58.661Z - info: Patient transfer successful. Transfer bed marked as occupied.
+2024-03-25T16:17:37.927Z - info: MongoDB connected
+2024-03-25T16:17:43.511Z - info: Calculated Mortality Rate:
+2024-03-25T16:17:43.517Z - info: Patient discharged and bed record updated successfully.
+2024-03-25T16:21:35.609Z - info: MongoDB connected
+2024-03-25T16:22:44.912Z - info: Ward occupancy is displayed
+2024-03-25T16:23:28.574Z - info: ward availability is displayed
+2024-03-25T16:24:10.249Z - info: Successful retrieval of patient acuity breakdown
+2024-03-25T16:26:22.608Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T16:33:53.073Z - info: MongoDB connected
+2024-03-25T16:34:30.609Z - info: MongoDB connected
+2024-03-25T16:36:08.462Z - info: MongoDB connected

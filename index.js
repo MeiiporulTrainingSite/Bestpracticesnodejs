@@ -35,7 +35,7 @@ app.use(
 // Routes
 app.use('/', bedRoutes); // Bed routes
 app.use('/', admitRoutes); // Admit routes
-app.use('/tp', transferRoutes); //  routes
+app.use('/', transferRoutes); //  routes
 app.use('/',dischargeRoutes);
 app.use('/',waitingRoutes);
 app.use('/',dashRoutes);

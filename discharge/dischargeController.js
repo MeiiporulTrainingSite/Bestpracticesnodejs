@@ -127,5 +127,16 @@ const dischargePatient = asyncHandler(async (req, res) => {
   }
 });
 
+//discharge get:
+const dischargeGets = asyncHandler(async (req, res) => {
+  const DischargeBeds = await Discharged.find();
+  if (DischargeBeds.length > 0) {
+      res.json(DischargeBeds);
+  } else if (DischargeBeds.length === 0) {
+      res.status(404);
+      throw new Error("Invalid Patient Not Found");
+  }
+});
 
-module.exports = { dischargePatient };
+
+module.exports = { dischargePatient, dischargeGets };

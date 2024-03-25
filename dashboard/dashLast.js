@@ -9,27 +9,46 @@ const logger = require('../utils/logger');
 const moment=require('moment')
 
 //dashboard 7
-const Dash7 = asyncHandler(async (req, res) => {
+ // Function to calculate the risk score based on medical acuity
+ function calculateRiskScore(medicalAcuity) {
+  switch (medicalAcuity) {
+    case "Critical":
+      return 0.85;
+    case "Moderate":
+      return 0.65;
+    case "Stable":
+      return 0.45;
+    default:
+      return 0.1; // Default risk score for unknown or unassigned medical acuity
+  }
+}
+const Dash7 = async (req, res) => {
+  try {
     // Find all patients in the database
     const patients = await Patient.find();
-  
-    // Extract patient data
-    const patientData = patients.map((patient) => ({
-      patientName: patient.patientName,
-     
-      
-     
-      medicalAcuity: patient.medicalAcuity,
-      
-      
-      riskScore: patient.riskScore
-    }));
-  
-  
+
+    // Extract patient data including patientName, medicalAcuity, and riskScore
+    const patientData = patients.map((patient) => {
+      // Extract medicalAcuity from the array if it's an array, otherwise use it directly
+      const acuity = Array.isArray(patient.medicalAcuity) ? patient.medicalAcuity[0] : patient.medicalAcuity;
+      // Calculate riskScore based on medicalAcuity
+      const riskScore = calculateRiskScore(acuity);
+
+      return {
+        patientName: patient.patientName,
+        medicalAcuity: acuity,
+        riskScore: riskScore,
+      };
+    });
+
     // Send back the patient data
     res.status(200).json(patientData);
-  });
-  
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+};
+
   //Dashboard 8
   const Dash8 = asyncHandler(async (req, res) => {
       // Initialize an array to store bed turnaround time information

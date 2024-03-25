@@ -22,7 +22,7 @@ router.get('/patientCareDashboard', patientCare)
 //dashboard 1:
 router.get('/availbilityboard', bedAvailabilityBoard)
 //Dash 7:
-router.get('/risk', Dash7)
+router.get('/riskGet', Dash7)
 
 //dashboard 8:
 router.get('/bedturnaroundtimes', Dash8)

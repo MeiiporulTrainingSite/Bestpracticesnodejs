@@ -11,6 +11,7 @@ const patientSchema = new mongoose.Schema({
   contactno: String,
   patientId: String,
   wardId: String,
+  riskScore:String,
   wardName: {
     type: String,
     required: true,

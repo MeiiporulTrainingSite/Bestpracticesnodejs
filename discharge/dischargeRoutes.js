@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const { dischargePatient  } = require('./dischargeController');
+const { dischargePatient,dischargeGets } = require('./dischargeController');
 
 /**
  * @swagger
@@ -102,4 +102,6 @@ const { dischargePatientValidationRules } = require('./dischargeValidator')
 
 //discharge:
 router.post('/distaa',dischargePatientValidationRules(),dischargePatient);
+//Get discharge
+router.get('/discharge',dischargeGets)
 module.exports=router;

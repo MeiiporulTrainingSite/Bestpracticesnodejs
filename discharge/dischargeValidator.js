@@ -5,7 +5,6 @@ const dischargePatientValidationRules = () =>{
         body('patientName').notEmpty().withMessage('PatientName is required'),
         body('age').notEmpty().isInt().withMessage('Age is required'),
         body('gender').notEmpty().withMessage('Gender is required'),
-        body('contactno').notEmpty().isInt().withMessage('Contactno is required'),
         body('patientId').notEmpty().withMessage('PatientId is required'),
         body('wardId').notEmpty().withMessage('WardId is required'),
         body('admissionDate').notEmpty().withMessage('Admission Date is required'),
