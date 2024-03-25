@@ -1,7 +1,9 @@
 
 const express = require('express');
 const router = express.Router();
-const {addWaitingEntry,PriorityUpdate,BedAssignUpdate,WaitGet}=require('../waiting/waitingController')
+const asyncHandler = require('express-async-handler');
+
+const {addWaitingEntry,PriorityUpdate,BedAssignUpdate,WaitGet,deleteWaitingPatient}=require('../waiting/waitingController')
 
 
 //waiting:
@@ -14,4 +16,6 @@ router.put('/assignbedss',BedAssignUpdate)
 
 //WaitGet
 router.get('/Waiting',WaitGet)
+router.delete('/deletewait/:patientId', asyncHandler(deleteWaitingPatient));
+
 module.exports = router;

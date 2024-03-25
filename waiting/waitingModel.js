@@ -21,7 +21,6 @@ const waitingListSchema = new mongoose.Schema({
         require:true
     
     }],
-    bedNumber:String,
     wardId: {
       type: String,
     },

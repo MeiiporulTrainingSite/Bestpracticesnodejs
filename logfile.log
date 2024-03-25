@@ -236,3 +236,87 @@
 2024-03-21T10:04:48.746Z - info: MongoDB connected
 2024-03-21T10:07:19.835Z - info: Patient admitted successfully
 2024-03-21T12:41:02.757Z - info: MongoDB connected
+2024-03-25T07:50:34.608Z - info: MongoDB connected
+2024-03-25T07:51:52.592Z - info: New entry created in waiting list
+2024-03-25T07:54:48.634Z - info: New entry created in waiting list
+2024-03-25T07:55:52.884Z - info: MongoDB connected
+2024-03-25T07:56:34.311Z - info: MongoDB connected
+2024-03-25T07:56:52.250Z - info: New entry created in waiting list
+2024-03-25T07:59:34.870Z - error: Invalid admission date
+2024-03-25T07:59:48.273Z - info: New entry created in waiting list
+2024-03-25T08:14:18.538Z - info: MongoDB connected
+2024-03-25T08:15:38.945Z - info: MongoDB connected
+2024-03-25T08:19:15.325Z - info: MongoDB connected
+2024-03-25T08:20:28.485Z - info: MongoDB connected
+2024-03-25T08:22:01.538Z - info: MongoDB connected
+2024-03-25T08:23:47.918Z - info: MongoDB connected
+2024-03-25T08:29:06.149Z - info: MongoDB connected
+2024-03-25T08:41:51.351Z - info: MongoDB connected
+2024-03-25T08:43:34.074Z - info: MongoDB connected
+2024-03-25T08:43:47.308Z - info: Added beds successfully
+2024-03-25T08:59:51.545Z - info: MongoDB connected
+2024-03-25T09:00:05.053Z - info: MongoDB connected
+2024-03-25T09:00:39.992Z - info: MongoDB connected
+2024-03-25T09:06:12.438Z - info: New entry created in waiting list
+2024-03-25T09:07:47.084Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:07:47.099Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:07:47.111Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:07:47.123Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:07:47.131Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:07:47.145Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:07:49.275Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:07:49.283Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:07:49.297Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:07:49.308Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:07:49.315Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:07:49.327Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:09:59.506Z - info: MongoDB connected
+2024-03-25T09:11:52.452Z - info: MongoDB connected
+2024-03-25T09:17:20.490Z - error: Invalid Patient Not Found
+2024-03-25T09:17:20.498Z - error: Invalid Patient Not Found
+2024-03-25T09:19:58.731Z - error: Invalid Patient Not Found
+2024-03-25T09:19:58.738Z - error: Invalid Patient Not Found
+2024-03-25T09:20:08.360Z - error: Not Found
+2024-03-25T09:20:08.365Z - error: Not Found
+2024-03-25T09:20:32.161Z - error: Invalid Patient Not Found
+2024-03-25T09:20:32.163Z - error: Not Found
+2024-03-25T09:20:32.171Z - error: Invalid Patient Not Found
+2024-03-25T09:20:32.173Z - error: Not Found
+2024-03-25T09:20:32.188Z - error: Invalid Patient Not Found
+2024-03-25T09:20:32.192Z - error: Not Found
+2024-03-25T09:20:32.204Z - error: Invalid Patient Not Found
+2024-03-25T09:20:32.206Z - error: Not Found
+2024-03-25T09:20:34.173Z - error: Not Found
+2024-03-25T09:20:34.181Z - error: Not Found
+2024-03-25T09:20:34.186Z - error: Not Found
+2024-03-25T09:20:34.193Z - error: Not Found
+2024-03-25T09:21:05.805Z - error: Invalid Patient Not Found
+2024-03-25T09:21:05.811Z - error: Invalid Patient Not Found
+2024-03-25T09:21:05.819Z - error: Invalid Patient Not Found
+2024-03-25T09:21:05.829Z - error: Invalid Patient Not Found
+2024-03-25T09:21:36.902Z - info: Added beds successfully
+2024-03-25T09:22:13.838Z - info: Patient admitted successfully
+2024-03-25T09:22:18.004Z - error: Invalid Patient Not Found
+2024-03-25T09:22:18.011Z - error: Invalid Patient Not Found
+2024-03-25T09:22:18.020Z - error: Invalid Patient Not Found
+2024-03-25T09:22:18.027Z - error: Invalid Patient Not Found
+2024-03-25T09:26:26.224Z - info: New entry created in waiting list
+2024-03-25T09:27:20.537Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:27:20.543Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:27:20.550Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:27:20.556Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:27:34.090Z - info: MongoDB connected
+2024-03-25T09:27:50.502Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:27:50.511Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:27:53.819Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:27:53.827Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:27:53.839Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:27:53.847Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:29:19.772Z - info: MongoDB connected
+2024-03-25T09:31:46.720Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:31:46.728Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:31:46.738Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:31:46.744Z - info: Retrieved patient care dashboard data successfully
+2024-03-25T09:41:38.661Z - info: MongoDB connected
+2024-03-25T09:41:43.225Z - info: MongoDB connected
+2024-03-25T09:43:20.851Z - info: MongoDB connected

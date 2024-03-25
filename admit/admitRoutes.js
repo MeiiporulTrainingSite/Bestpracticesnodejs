@@ -2,7 +2,9 @@ const express = require('express');
 const router = express.Router();
 
 const { admitPatient, patientGets  } = require('./admitController');
+const { updatePatient, deletePatient } = require('./landingAdmit');
 
+// Update patient information
 /**
  * @swagger
  * components:
@@ -153,5 +155,8 @@ router.post('/admitpt', admitPatientValidationRules(), admitPatient);
 
 // GET endpoint to get all admitted patients
 router.get('/patientGet', patientGets);
+router.put('/updatept', updatePatient);
+router.delete('/deletept/:patientId', deletePatient)
+
 
 module.exports = router;
