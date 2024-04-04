@@ -243,6 +243,8 @@ const admitPatient = asyncHandler(async (req, res, next) => {
     //selectedBed.gender=gender;
     selectedBed.contactno=contactno;
     selectedBed.medicalAcuity=medicalAcuity;
+    selectedBed.admissionDate=admissionDate;
+    
 
     // Save changes to the bed data
     await bed.save();

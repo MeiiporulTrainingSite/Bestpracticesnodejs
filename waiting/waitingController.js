@@ -212,5 +212,27 @@ const deleteWaitingPatient = async (req, res, next) => {
   }
 };
 
+//
 
-module.exports = { addWaitingEntry,PriorityUpdate,BedAssignUpdate,WaitGet,deleteWaitingPatient};
+const getAvailableBeds = asyncHandler(async (req, res) => {
+  const availableWards = await Bed.find({ 'wards.beds.status': 'available' });
+
+  if (!availableWards || availableWards.length === 0) {
+      return res.status(404).json({ message: 'No available beds found.' });
+  }
+
+  const BedAvailability = [];
+
+  availableWards.forEach((wardDocument) => {
+      wardDocument.wards.forEach((ward) => {
+          const wardName = ward.wardName; // Access wardName directly
+          const availableCount = ward.beds.filter((bed) => bed.status === 'available').map((bed) => ({ bedNumber: bed.bedNumber }));
+
+          BedAvailability.push({ ward: wardName, availableBeds: availableCount });
+      });
+  });
+
+  res.json({ BedAvailability });
+});
+
+module.exports = { addWaitingEntry,PriorityUpdate,BedAssignUpdate,WaitGet,deleteWaitingPatient,getAvailableBeds};

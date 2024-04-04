@@ -18,6 +18,7 @@ const bedSchema = new mongoose.Schema({
           age:String,
           gender:String,
           medicalAcuity:String,
+          admissionDate:String
         }]
     },
   ],

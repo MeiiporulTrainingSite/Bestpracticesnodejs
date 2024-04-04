@@ -1238,3 +1238,18 @@
 2024-04-03T15:42:14.665Z - info: Retrieved patient care dashboard data successfully
 2024-04-03T15:42:18.891Z - info: Retrieved patient care dashboard data successfully
 2024-04-03T15:42:18.897Z - info: Retrieved patient care dashboard data successfully
+2024-04-04T06:21:04.822Z - info: MongoDB connected
+2024-04-04T06:24:31.463Z - info: MongoDB connected
+2024-04-04T06:26:00.841Z - info: Patient admitted successfully
+2024-04-04T06:26:18.870Z - info: Patient transfer successful. Transfer bed marked as occupied.
+2024-04-04T09:04:25.342Z - info: Patient transfer successful. Transfer bed marked as occupied.
+2024-04-04T09:16:30.888Z - error: Not Found
+2024-04-04T09:16:37.617Z - info: Patient transfer successful. Transfer bed marked as occupied.
+2024-04-04T11:15:23.699Z - info: MongoDB connected
+2024-04-04T11:19:38.441Z - info: MongoDB connected
+2024-04-04T11:20:39.619Z - info: MongoDB connected
+2024-04-04T11:22:26.575Z - info: MongoDB connected
+2024-04-04T11:38:31.400Z - info: MongoDB connected
+2024-04-04T11:39:06.388Z - info: Calculated Mortality Rate:
+2024-04-04T11:39:06.406Z - info: Patient discharged and bed record updated successfully.
+2024-04-04T11:39:25.914Z - info: Patient admitted successfully

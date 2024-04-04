@@ -34,6 +34,17 @@ router.get('/riskGet', Dash7)
 //dashboard 8:
 router.get('/bedturnaroundtimes', Dash8)
 //dashboard 9:
+// router.get('/:wardId/statistics',Dash9)
+// //Dashboard 10:
+// router.get('/patientflow',Dash10)
+
+// //dash11:
+// router.get('/patient',Dash11)
+// //dashboard 12:
+// router.get('/paces',Dash12)
+
+
+//dashboard 9:
 router.get('/:wardId/statistics',Dash9)
 //Dashboard 10:
 router.get('/patientflow',Dash10)
@@ -42,5 +53,6 @@ router.get('/patientflow',Dash10)
 router.get('/patient',Dash11)
 //dashboard 12:
 router.get('/paces',Dash12)
+
 
 module.exports = router;
