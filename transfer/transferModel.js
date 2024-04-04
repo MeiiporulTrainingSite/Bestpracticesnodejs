@@ -3,7 +3,6 @@ const transfersSchema = new mongoose.Schema({
   patientName: String,
   age: String,
   gender: String,
-  contactno: String,
   patientId: String,
   transferId:String,
   currentWardId: String,
@@ -11,8 +10,13 @@ const transfersSchema = new mongoose.Schema({
   transferWardId: String,
   transferBedNumber: String,
   
-  medicalAcuity: [String],
-  transferReasons: [String],
+  medicalAcuity: [
+    {type:String}
+  ],
+  transferReasons:
+  [
+    {type:String}
+  ],
 });
 const Transfers = mongoose.model('Transfer', transfersSchema);
 module.exports = Transfers;

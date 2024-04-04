@@ -79,11 +79,11 @@ const dischargePatient = asyncHandler(async (req, res) => {
     // Update bed record
     selectedBed.status = 'available';
     selectedBed.patientId = '';
-    // selectedBed.patientName = '';
-    // selectedBed.age = '';
+     selectedBed.patientName = '';
+     selectedBed.age = '';
     // selectedBed.contactno = '';
-    // selectedBed.gender = '';
-    // selectedBed.medicalAcuity = '';
+     selectedBed.gender = '';
+     selectedBed.medicalAcuity = '';
 
     // Save the updated bed record
     await bedData.save();
@@ -98,7 +98,7 @@ const dischargePatient = asyncHandler(async (req, res) => {
     await Patient.deleteOne({ patientId });
 
     // Log the calculated mortality rate
-    logger.info('Calculated Mortality Rate:', mortalityRate);
+    logger.info( mortalityRate);
 
     // Create a discharged record with all the data fields
     const discharged = new Discharged({

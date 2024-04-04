@@ -1,8 +1,10 @@
 const express = require('express');
 const router = express.Router();
+const { verifyToken } = require('../middleware/verifyToken'); // Import verifyToken middleware
+const { validateToken } = require('../nursesignup/nurseController'); // Import validateToken middleware
 
 const { paagHandler, wardOccup, availablebed,bedAvailabilityBoard,getAdmissionDischarge}=require('../dashboard/dashFirst')
-const {patientCare}=require('../dashboard/dashFirst')
+const {patientCare,patientCarealert}=require('../dashboard/dashFirst')
 const {Dash7,Dash8,Dash9,Dash10,Dash11,Dash12}=require('../dashboard/dashLast');
 
 //dashboard2:
@@ -18,7 +20,12 @@ router.get('/paaG', paagHandler)
 //dashbpard 5:
 router.get('/admdis', getAdmissionDischarge)
 //dashboard 6:
-router.get('/patientCareDashboard', patientCare)
+router.get('/patientCareDashboard', validateToken, patientCare);
+router.get('/patientCare', patientCare);
+
+router.get('/patientCarealert', patientCarealert);
+
+//router.get('/patientCareDashboard', patientCare)
 //dashboard 1:
 router.get('/availbilityboard', bedAvailabilityBoard)
 //Dash 7:

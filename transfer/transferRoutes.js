@@ -31,9 +31,7 @@ const { transferPatient,transferGet } = require('./transferController');
  *               gender:
  *                 type: string
  *                 description: The gender of the patient.
- *               contactno:
- *                 type: string
- *                 description: The contact number of the patient.
+ *              
  *               patientId:
  *                 type: string
  *                 description: The ID of the patient.

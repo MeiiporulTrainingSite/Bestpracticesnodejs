@@ -30,7 +30,6 @@ if (!errors.isEmpty()) {
     patientName,
     age,
     gender,
-    contactno,
     patientId,
     transferWardId,
     transferBedNumber,
@@ -77,6 +76,12 @@ if (!errors.isEmpty()) {
   // Update the current bed to available
   currentBed.wards[0].beds[currentBedIndex].status = 'available';
   currentBed.wards[0].beds[currentBedIndex].patientId = '';
+  currentBed.wards[0].beds[currentBedIndex].patientName = '';
+  currentBed.wards[0].beds[currentBedIndex].age = '';
+  currentBed.wards[0].beds[currentBedIndex].gender = '';
+  currentBed.wards[0].beds[currentBedIndex].medicalAcuity = '';
+
+
 
   // Find the index of the transfer bed within the transfer ward
   const transferBedIndex = transferBed.wards[0].beds.findIndex(
@@ -91,6 +96,11 @@ if (!errors.isEmpty()) {
   // Update the transfer bed to occupied with patient information
   transferBed.wards[0].beds[transferBedIndex].status = 'occupied';
   transferBed.wards[0].beds[transferBedIndex].patientId = patientId;
+  transferBed.wards[0].beds[transferBedIndex].patientName = patientName;
+  transferBed.wards[0].beds[transferBedIndex].age = age;
+  transferBed.wards[0].beds[transferBedIndex].medicalAcuity = medicalAcuity;
+  transferBed.wards[0].beds[transferBedIndex].gender = gender;
+
 
   // Save changes to the database
   await currentBed.save();
@@ -103,7 +113,6 @@ if (!errors.isEmpty()) {
     gender,
     patientId,
     transferId,
-    contactno,
     currentWardId,
     currentBedNumber,
     transferWardId,

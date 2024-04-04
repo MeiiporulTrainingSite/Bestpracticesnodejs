@@ -346,3 +346,895 @@
 2024-03-25T16:33:53.073Z - info: MongoDB connected
 2024-03-25T16:34:30.609Z - info: MongoDB connected
 2024-03-25T16:36:08.462Z - info: MongoDB connected
+2024-04-01T15:27:32.446Z - info: MongoDB connected
+2024-04-01T15:28:40.484Z - error: Bad Request
+2024-04-01T15:30:15.831Z - error: Bad Request
+2024-04-01T15:31:06.341Z - info: MongoDB connected
+2024-04-01T15:31:31.548Z - error: Bad Request
+2024-04-01T15:43:10.796Z - info: MongoDB connected
+2024-04-01T15:44:17.743Z - error: Bad Request
+2024-04-01T15:50:58.203Z - info: MongoDB connected
+2024-04-01T15:51:17.822Z - info: Patient transfer successful. Transfer bed marked as occupied.
+2024-04-01T15:51:55.244Z - error: Bad Request
+2024-04-01T15:52:26.363Z - error: Not Found
+2024-04-01T15:52:47.646Z - error: Not Found
+2024-04-01T15:53:26.939Z - info: MongoDB connected
+2024-04-02T11:15:07.873Z - info: MongoDB connected
+2024-04-02T11:15:47.639Z - error: Invalid Patient Not Found
+2024-04-02T11:15:47.641Z - error: Not Found
+2024-04-02T11:15:47.660Z - error: Invalid Patient Not Found
+2024-04-02T11:15:47.661Z - error: Not Found
+2024-04-02T11:15:47.674Z - error: Invalid Patient Not Found
+2024-04-02T11:15:47.675Z - error: Not Found
+2024-04-02T11:15:47.687Z - error: Invalid Patient Not Found
+2024-04-02T11:15:47.688Z - error: Not Found
+2024-04-02T11:16:14.421Z - info: Added beds successfully
+2024-04-02T11:19:23.802Z - error: Bad Request
+2024-04-02T11:20:41.594Z - error: Bad Request
+2024-04-02T11:20:50.423Z - info: Patient admitted successfully
+2024-04-02T11:21:18.415Z - info: Patient admitted successfully
+2024-04-02T11:21:35.104Z - info: Patient admitted successfully
+2024-04-02T13:06:37.976Z - info: MongoDB connected
+2024-04-02T13:07:10.475Z - error: Bad Request
+2024-04-02T13:19:10.222Z - info: MongoDB connected
+2024-04-02T13:19:37.629Z - error: Bad Request
+2024-04-02T13:25:58.284Z - info: MongoDB connected
+2024-04-02T13:26:20.242Z - info: Patient admitted successfully
+2024-04-02T13:26:57.801Z - info: Added beds successfully
+2024-04-02T13:27:33.790Z - info: Patient admitted successfully
+2024-04-02T13:30:01.530Z - info: MongoDB connected
+2024-04-02T13:30:40.180Z - info: Patient admitted successfully
+2024-04-02T13:32:00.404Z - info: MongoDB connected
+2024-04-02T13:35:20.601Z - info: MongoDB connected
+2024-04-02T13:36:10.891Z - info: Patient transfer successful. Transfer bed marked as occupied.
+2024-04-02T13:39:35.482Z - info: MongoDB connected
+2024-04-02T13:40:00.001Z - info: MongoDB connected
+2024-04-02T13:41:18.999Z - info: Calculated Mortality Rate:
+2024-04-02T13:41:19.015Z - info: Patient discharged and bed record updated successfully.
+2024-04-02T13:45:56.649Z - info: Calculated Mortality Rate:
+2024-04-02T13:45:56.657Z - info: Patient discharged and bed record updated successfully.
+2024-04-02T13:47:46.551Z - info: Added beds successfully
+2024-04-02T13:48:03.518Z - info: Patient admitted successfully
+2024-04-02T13:48:39.043Z - info: Calculated Mortality Rate:
+2024-04-02T13:48:39.063Z - info: Patient discharged and bed record updated successfully.
+2024-04-02T13:49:26.103Z - info: MongoDB connected
+2024-04-02T13:49:46.135Z - info: Patient admitted successfully
+2024-04-02T13:50:06.547Z - info: Calculated Mortality Rate:
+2024-04-02T13:50:06.556Z - info: Patient discharged and bed record updated successfully.
+2024-04-02T13:50:46.881Z - info: MongoDB connected
+2024-04-02T13:51:09.060Z - info: Patient admitted successfully
+2024-04-02T13:51:41.954Z - info: Calculated Mortality Rate:
+2024-04-02T13:51:41.964Z - info: Patient discharged and bed record updated successfully.
+2024-04-02T13:52:11.155Z - info: MongoDB connected
+2024-04-02T13:52:39.628Z - info: Patient admitted successfully
+2024-04-02T13:52:59.805Z - info: Patient discharged and bed record updated successfully.
+2024-04-02T13:53:20.775Z - info: MongoDB connected
+2024-04-02T13:53:36.033Z - info: Patient admitted successfully
+2024-04-02T13:53:52.004Z - error: Patient is not occupying the bed or already discharged.
+2024-04-02T13:54:23.893Z - info: Patient admitted successfully
+2024-04-02T13:54:45.624Z - info: 133.33333333333331
+2024-04-02T13:54:45.633Z - info: Patient discharged and bed record updated successfully.
+2024-04-02T13:58:33.126Z - info: MongoDB connected
+2024-04-02T13:58:49.867Z - info: MongoDB connected
+2024-04-02T13:59:02.916Z - info: MongoDB connected
+2024-04-02T13:59:57.338Z - info: MongoDB connected
+2024-04-02T14:00:07.894Z - info: MongoDB connected
+2024-04-02T14:00:17.147Z - info: MongoDB connected
+2024-04-02T14:00:33.316Z - info: MongoDB connected
+2024-04-02T14:05:23.910Z - info: MongoDB connected
+2024-04-02T14:07:38.694Z - info: MongoDB connected
+2024-04-02T14:10:05.998Z - info: MongoDB connected
+2024-04-02T14:15:35.740Z - info: Retrieved patient care dashboard data successfully
+2024-04-02T14:15:35.749Z - info: Retrieved patient care dashboard data successfully
+2024-04-02T14:15:35.755Z - info: Retrieved patient care dashboard data successfully
+2024-04-02T14:15:35.766Z - info: Retrieved patient care dashboard data successfully
+2024-04-02T15:56:50.069Z - info: MongoDB connected
+2024-04-02T16:00:29.430Z - info: MongoDB connected
+2024-04-02T16:03:42.501Z - info: MongoDB connected
+2024-04-02T16:05:45.066Z - info: MongoDB connected
+2024-04-02T16:06:25.053Z - error: Error registering nurse: secretOrPrivateKey must have a value
+2024-04-02T16:09:23.217Z - info: MongoDB connected
+2024-04-02T16:09:49.417Z - error: Error registering nurse: secretOrPrivateKey must have a value
+2024-04-02T16:10:33.248Z - info: MongoDB connected
+2024-04-02T16:12:31.317Z - info: MongoDB connected
+2024-04-02T17:06:48.315Z - info: MongoDB connected
+2024-04-02T17:12:55.963Z - info: MongoDB connected
+2024-04-02T17:34:32.764Z - info: MongoDB connected
+2024-04-02T17:34:52.334Z - info: MongoDB connected
+2024-04-02T17:39:27.230Z - info: MongoDB connected
+2024-04-02T17:40:45.806Z - info: MongoDB connected
+2024-04-02T17:48:15.188Z - info: MongoDB connected
+2024-04-02T17:50:24.719Z - info: MongoDB connected
+2024-04-02T17:52:42.051Z - error: Error validating token: invalid token
+2024-04-02T17:53:10.935Z - error: Error validating token: invalid token
+2024-04-02T17:53:39.042Z - error: Error validating token: invalid token
+2024-04-02T17:54:06.179Z - error: Error validating token: invalid token
+2024-04-02T17:54:33.598Z - error: Error validating token: invalid token
+2024-04-02T18:07:12.471Z - info: MongoDB connected
+2024-04-02T18:10:01.487Z - error: email or password is not valid
+2024-04-02T18:10:18.668Z - info: MongoDB connected
+2024-04-02T18:11:02.260Z - error: Error registering nurse: Nurse validation failed: nurseName: Path `nurseName` is required.
+2024-04-02T18:13:59.212Z - info: MongoDB connected
+2024-04-02T18:20:59.248Z - info: MongoDB connected
+2024-04-02T18:26:14.728Z - info: MongoDB connected
+2024-04-02T18:27:01.811Z - info: Retrieved patient care dashboard data successfully
+2024-04-02T18:27:20.574Z - error: Error validating token: invalid token
+2024-04-02T18:27:27.332Z - error: Error validating token: invalid token
+2024-04-02T18:27:33.354Z - info: Retrieved patient care dashboard data successfully
+2024-04-02T18:49:48.929Z - info: 166.66666666666669
+2024-04-02T18:49:48.933Z - info: Patient discharged and bed record updated successfully.
+2024-04-02T18:50:10.292Z - info: Patient admitted successfully
+2024-04-02T19:34:35.173Z - error: Invalid Patient Not Found
+2024-04-02T19:34:35.211Z - error: Invalid Patient Not Found
+2024-04-02T19:34:41.269Z - error: Invalid Patient Not Found
+2024-04-02T19:34:41.305Z - error: Invalid Patient Not Found
+2024-04-02T19:35:37.718Z - error: Invalid Patient Not Found
+2024-04-02T19:35:37.750Z - error: Invalid Patient Not Found
+2024-04-02T19:35:43.507Z - error: Invalid Patient Not Found
+2024-04-02T19:35:43.547Z - error: Invalid Patient Not Found
+2024-04-02T19:37:30.410Z - info: MongoDB connected
+2024-04-02T19:37:35.000Z - error: Invalid Patient Not Found
+2024-04-02T19:37:35.019Z - error: Invalid Patient Not Found
+2024-04-02T19:39:31.248Z - error: Invalid Patient Not Found
+2024-04-02T19:39:31.303Z - error: Invalid Patient Not Found
+2024-04-02T19:40:24.160Z - error: Invalid Patient Not Found
+2024-04-02T19:41:27.404Z - error: Invalid Patient Not Found
+2024-04-02T19:41:30.398Z - error: Invalid Patient Not Found
+2024-04-02T19:41:30.435Z - error: Invalid Patient Not Found
+2024-04-02T19:41:50.832Z - error: Invalid Patient Not Found
+2024-04-02T19:41:54.481Z - error: Invalid Patient Not Found
+2024-04-02T19:41:54.523Z - error: Invalid Patient Not Found
+2024-04-02T19:42:18.237Z - error: Invalid Patient Not Found
+2024-04-02T19:42:22.684Z - error: Invalid Patient Not Found
+2024-04-02T19:42:22.724Z - error: Invalid Patient Not Found
+2024-04-02T19:42:39.063Z - error: Invalid Patient Not Found
+2024-04-02T19:42:42.788Z - error: Invalid Patient Not Found
+2024-04-02T19:42:42.855Z - error: Invalid Patient Not Found
+2024-04-02T19:43:00.292Z - error: Invalid Patient Not Found
+2024-04-02T19:43:05.740Z - error: Invalid Patient Not Found
+2024-04-02T19:43:05.786Z - error: Invalid Patient Not Found
+2024-04-02T19:43:38.882Z - error: Invalid Patient Not Found
+2024-04-02T19:43:46.275Z - error: Invalid Patient Not Found
+2024-04-02T19:43:46.313Z - error: Invalid Patient Not Found
+2024-04-02T19:50:48.327Z - error: Invalid Patient Not Found
+2024-04-02T19:50:48.379Z - error: Invalid Patient Not Found
+2024-04-02T19:52:24.071Z - info: MongoDB connected
+2024-04-02T19:52:30.871Z - error: Invalid Patient Not Found
+2024-04-02T19:52:30.989Z - error: Invalid Patient Not Found
+2024-04-02T19:52:32.671Z - error: Invalid Patient Not Found
+2024-04-02T19:52:32.737Z - error: Invalid Patient Not Found
+2024-04-02T19:54:40.399Z - error: Invalid Patient Not Found
+2024-04-03T05:30:32.139Z - info: MongoDB connected
+2024-04-03T05:31:19.709Z - error: Invalid Patient Not Found
+2024-04-03T05:31:19.807Z - error: Invalid Patient Not Found
+2024-04-03T05:33:02.842Z - error: Invalid Patient Not Found
+2024-04-03T05:33:05.631Z - error: Invalid Patient Not Found
+2024-04-03T05:33:05.668Z - error: Invalid Patient Not Found
+2024-04-03T05:41:22.447Z - error: Invalid Patient Not Found
+2024-04-03T05:41:25.318Z - error: Invalid Patient Not Found
+2024-04-03T05:41:25.354Z - error: Invalid Patient Not Found
+2024-04-03T05:44:28.710Z - error: Invalid Patient Not Found
+2024-04-03T05:44:35.366Z - error: Invalid Patient Not Found
+2024-04-03T05:44:35.421Z - error: Invalid Patient Not Found
+2024-04-03T05:46:11.571Z - error: Invalid Patient Not Found
+2024-04-03T05:46:14.888Z - error: Invalid Patient Not Found
+2024-04-03T05:46:14.920Z - error: Invalid Patient Not Found
+2024-04-03T05:48:47.688Z - error: Invalid Patient Not Found
+2024-04-03T05:49:29.697Z - error: Invalid Patient Not Found
+2024-04-03T05:49:33.373Z - error: Invalid Patient Not Found
+2024-04-03T05:49:33.403Z - error: Invalid Patient Not Found
+2024-04-03T05:49:51.668Z - error: Invalid Patient Not Found
+2024-04-03T05:50:07.574Z - error: Invalid Patient Not Found
+2024-04-03T05:50:07.606Z - error: Invalid Patient Not Found
+2024-04-03T05:50:28.687Z - error: Invalid Patient Not Found
+2024-04-03T05:50:32.098Z - error: Invalid Patient Not Found
+2024-04-03T05:50:32.129Z - error: Invalid Patient Not Found
+2024-04-03T05:51:05.678Z - error: Invalid Patient Not Found
+2024-04-03T05:51:32.659Z - error: Invalid Patient Not Found
+2024-04-03T05:51:38.744Z - error: Invalid Patient Not Found
+2024-04-03T05:51:38.773Z - error: Invalid Patient Not Found
+2024-04-03T05:52:08.134Z - error: Invalid Patient Not Found
+2024-04-03T05:52:35.542Z - error: Invalid Patient Not Found
+2024-04-03T05:55:04.673Z - error: Invalid Patient Not Found
+2024-04-03T06:00:09.233Z - error: Invalid Patient Not Found
+2024-04-03T06:00:09.276Z - error: Invalid Patient Not Found
+2024-04-03T06:00:30.951Z - error: Invalid Patient Not Found
+2024-04-03T06:00:34.947Z - error: Invalid Patient Not Found
+2024-04-03T06:00:34.975Z - error: Invalid Patient Not Found
+2024-04-03T06:00:45.089Z - error: Invalid Patient Not Found
+2024-04-03T06:00:48.223Z - error: Invalid Patient Not Found
+2024-04-03T06:00:48.247Z - error: Invalid Patient Not Found
+2024-04-03T06:01:00.663Z - error: Invalid Patient Not Found
+2024-04-03T06:01:05.098Z - error: Invalid Patient Not Found
+2024-04-03T06:01:05.124Z - error: Invalid Patient Not Found
+2024-04-03T06:01:52.488Z - error: Invalid Patient Not Found
+2024-04-03T06:01:56.681Z - error: Invalid Patient Not Found
+2024-04-03T06:01:56.708Z - error: Invalid Patient Not Found
+2024-04-03T06:02:20.173Z - error: Invalid Patient Not Found
+2024-04-03T06:02:23.322Z - error: Invalid Patient Not Found
+2024-04-03T06:02:23.350Z - error: Invalid Patient Not Found
+2024-04-03T06:04:31.370Z - error: Invalid Patient Not Found
+2024-04-03T06:04:34.432Z - error: Invalid Patient Not Found
+2024-04-03T06:04:34.468Z - error: Invalid Patient Not Found
+2024-04-03T06:06:27.315Z - error: Invalid Patient Not Found
+2024-04-03T06:07:24.712Z - error: Invalid Patient Not Found
+2024-04-03T06:07:27.969Z - error: Invalid Patient Not Found
+2024-04-03T06:07:27.997Z - error: Invalid Patient Not Found
+2024-04-03T06:09:13.367Z - error: Invalid Patient Not Found
+2024-04-03T06:09:41.668Z - error: Invalid Patient Not Found
+2024-04-03T06:09:45.447Z - error: Invalid Patient Not Found
+2024-04-03T06:09:45.484Z - error: Invalid Patient Not Found
+2024-04-03T06:10:05.671Z - error: Invalid Patient Not Found
+2024-04-03T06:10:09.581Z - error: Invalid Patient Not Found
+2024-04-03T06:10:09.607Z - error: Invalid Patient Not Found
+2024-04-03T06:10:31.448Z - error: Invalid Patient Not Found
+2024-04-03T06:10:36.165Z - error: Invalid Patient Not Found
+2024-04-03T06:10:36.189Z - error: Invalid Patient Not Found
+2024-04-03T06:11:03.689Z - error: Invalid Patient Not Found
+2024-04-03T06:11:08.392Z - error: Invalid Patient Not Found
+2024-04-03T06:11:08.433Z - error: Invalid Patient Not Found
+2024-04-03T06:11:26.515Z - error: Invalid Patient Not Found
+2024-04-03T06:12:31.662Z - error: Invalid Patient Not Found
+2024-04-03T06:16:18.563Z - error: Invalid Patient Not Found
+2024-04-03T06:16:22.767Z - error: Invalid Patient Not Found
+2024-04-03T06:16:22.801Z - error: Invalid Patient Not Found
+2024-04-03T06:16:41.574Z - error: Invalid Patient Not Found
+2024-04-03T06:17:07.628Z - error: Invalid Patient Not Found
+2024-04-03T06:17:28.459Z - error: Invalid Patient Not Found
+2024-04-03T06:17:46.467Z - error: Invalid Patient Not Found
+2024-04-03T06:18:06.835Z - error: Invalid Patient Not Found
+2024-04-03T06:18:23.827Z - error: Invalid Patient Not Found
+2024-04-03T06:18:35.718Z - error: Invalid Patient Not Found
+2024-04-03T06:18:55.500Z - error: Invalid Patient Not Found
+2024-04-03T06:19:12.296Z - error: Invalid Patient Not Found
+2024-04-03T06:19:15.337Z - error: Invalid Patient Not Found
+2024-04-03T06:19:15.377Z - error: Invalid Patient Not Found
+2024-04-03T06:19:29.421Z - error: Invalid Patient Not Found
+2024-04-03T06:19:33.124Z - error: Invalid Patient Not Found
+2024-04-03T06:19:33.149Z - error: Invalid Patient Not Found
+2024-04-03T06:19:53.678Z - error: Invalid Patient Not Found
+2024-04-03T06:19:57.281Z - error: Invalid Patient Not Found
+2024-04-03T06:19:57.309Z - error: Invalid Patient Not Found
+2024-04-03T06:22:47.962Z - error: Invalid Patient Not Found
+2024-04-03T06:22:51.658Z - error: Invalid Patient Not Found
+2024-04-03T06:22:51.688Z - error: Invalid Patient Not Found
+2024-04-03T06:23:06.380Z - error: Invalid Patient Not Found
+2024-04-03T06:23:09.626Z - error: Invalid Patient Not Found
+2024-04-03T06:23:09.650Z - error: Invalid Patient Not Found
+2024-04-03T06:23:19.662Z - error: Invalid Patient Not Found
+2024-04-03T06:23:36.752Z - error: Invalid Patient Not Found
+2024-04-03T06:23:40.733Z - error: Invalid Patient Not Found
+2024-04-03T06:23:40.758Z - error: Invalid Patient Not Found
+2024-04-03T06:23:57.115Z - error: Invalid Patient Not Found
+2024-04-03T06:24:11.676Z - error: Invalid Patient Not Found
+2024-04-03T06:24:16.008Z - error: Invalid Patient Not Found
+2024-04-03T06:24:16.038Z - error: Invalid Patient Not Found
+2024-04-03T06:28:45.432Z - error: Invalid Patient Not Found
+2024-04-03T06:28:51.409Z - error: Invalid Patient Not Found
+2024-04-03T06:28:51.430Z - error: Invalid Patient Not Found
+2024-04-03T06:32:04.947Z - error: Invalid Patient Not Found
+2024-04-03T06:33:23.662Z - error: Invalid Patient Not Found
+2024-04-03T06:33:34.668Z - error: Invalid Patient Not Found
+2024-04-03T06:33:50.866Z - error: Invalid Patient Not Found
+2024-04-03T06:33:50.894Z - error: Invalid Patient Not Found
+2024-04-03T06:34:14.681Z - error: Invalid Patient Not Found
+2024-04-03T06:34:19.791Z - error: Invalid Patient Not Found
+2024-04-03T06:34:19.820Z - error: Invalid Patient Not Found
+2024-04-03T06:50:37.608Z - error: Invalid Patient Not Found
+2024-04-03T06:50:43.234Z - error: Invalid Patient Not Found
+2024-04-03T06:50:43.269Z - error: Invalid Patient Not Found
+2024-04-03T06:52:35.193Z - error: Invalid Patient Not Found
+2024-04-03T06:52:39.996Z - error: Invalid Patient Not Found
+2024-04-03T06:52:40.035Z - error: Invalid Patient Not Found
+2024-04-03T06:53:08.792Z - error: Invalid Patient Not Found
+2024-04-03T06:53:22.465Z - error: Invalid Patient Not Found
+2024-04-03T06:53:25.548Z - error: Invalid Patient Not Found
+2024-04-03T06:53:25.577Z - error: Invalid Patient Not Found
+2024-04-03T06:53:34.928Z - error: Invalid Patient Not Found
+2024-04-03T06:53:38.166Z - error: Invalid Patient Not Found
+2024-04-03T06:53:38.196Z - error: Invalid Patient Not Found
+2024-04-03T06:53:54.080Z - error: Invalid Patient Not Found
+2024-04-03T06:54:03.500Z - error: Invalid Patient Not Found
+2024-04-03T06:54:03.522Z - error: Invalid Patient Not Found
+2024-04-03T06:54:31.383Z - error: Invalid Patient Not Found
+2024-04-03T06:54:34.119Z - error: Invalid Patient Not Found
+2024-04-03T06:54:34.149Z - error: Invalid Patient Not Found
+2024-04-03T06:54:46.147Z - error: Invalid Patient Not Found
+2024-04-03T06:54:49.140Z - error: Invalid Patient Not Found
+2024-04-03T06:54:49.172Z - error: Invalid Patient Not Found
+2024-04-03T06:55:01.655Z - error: Invalid Patient Not Found
+2024-04-03T06:55:13.890Z - error: Invalid Patient Not Found
+2024-04-03T06:55:16.676Z - error: Invalid Patient Not Found
+2024-04-03T06:55:16.711Z - error: Invalid Patient Not Found
+2024-04-03T06:57:17.789Z - error: Invalid Patient Not Found
+2024-04-03T06:57:35.671Z - error: Invalid Patient Not Found
+2024-04-03T06:59:36.656Z - error: Invalid Patient Not Found
+2024-04-03T07:01:57.382Z - error: Invalid Patient Not Found
+2024-04-03T07:02:04.383Z - error: Invalid Patient Not Found
+2024-04-03T07:02:04.411Z - error: Invalid Patient Not Found
+2024-04-03T07:02:58.122Z - info: Patient admitted successfully
+2024-04-03T07:03:29.946Z - error: Invalid Patient Not Found
+2024-04-03T07:03:29.984Z - error: Invalid Patient Not Found
+2024-04-03T07:05:05.056Z - info: MongoDB connected
+2024-04-03T07:05:45.110Z - error: Invalid Patient Not Found
+2024-04-03T07:05:45.172Z - error: Invalid Patient Not Found
+2024-04-03T07:06:42.175Z - error: Invalid Patient Not Found
+2024-04-03T07:06:42.227Z - error: Invalid Patient Not Found
+2024-04-03T07:08:29.959Z - info: MongoDB connected
+2024-04-03T07:08:42.285Z - error: Invalid Patient Not Found
+2024-04-03T07:08:42.371Z - error: Invalid Patient Not Found
+2024-04-03T07:10:57.697Z - error: Invalid Patient Not Found
+2024-04-03T07:11:02.075Z - error: Invalid Patient Not Found
+2024-04-03T07:11:02.112Z - error: Invalid Patient Not Found
+2024-04-03T07:12:44.711Z - error: Invalid Patient Not Found
+2024-04-03T07:12:48.643Z - error: Invalid Patient Not Found
+2024-04-03T07:12:48.672Z - error: Invalid Patient Not Found
+2024-04-03T07:13:16.679Z - error: Invalid Patient Not Found
+2024-04-03T07:19:23.723Z - error: Invalid Patient Not Found
+2024-04-03T07:20:20.743Z - error: Invalid Patient Not Found
+2024-04-03T07:20:35.373Z - error: Invalid Patient Not Found
+2024-04-03T07:20:39.621Z - error: Invalid Patient Not Found
+2024-04-03T07:20:39.657Z - error: Invalid Patient Not Found
+2024-04-03T07:20:57.701Z - error: Invalid Patient Not Found
+2024-04-03T07:21:05.738Z - error: Invalid Patient Not Found
+2024-04-03T07:21:05.773Z - error: Invalid Patient Not Found
+2024-04-03T07:22:53.292Z - error: Invalid Patient Not Found
+2024-04-03T07:22:56.971Z - error: Invalid Patient Not Found
+2024-04-03T07:22:57.005Z - error: Invalid Patient Not Found
+2024-04-03T07:23:21.810Z - error: Invalid Patient Not Found
+2024-04-03T07:23:27.558Z - error: Invalid Patient Not Found
+2024-04-03T07:23:27.600Z - error: Invalid Patient Not Found
+2024-04-03T07:23:52.769Z - error: Invalid Patient Not Found
+2024-04-03T07:23:57.867Z - error: Invalid Patient Not Found
+2024-04-03T07:23:57.908Z - error: Invalid Patient Not Found
+2024-04-03T07:24:23.766Z - error: Invalid Patient Not Found
+2024-04-03T07:24:28.193Z - error: Invalid Patient Not Found
+2024-04-03T07:24:28.224Z - error: Invalid Patient Not Found
+2024-04-03T07:24:55.745Z - error: Invalid Patient Not Found
+2024-04-03T07:25:25.710Z - error: Invalid Patient Not Found
+2024-04-03T07:25:32.337Z - error: Invalid Patient Not Found
+2024-04-03T07:25:32.369Z - error: Invalid Patient Not Found
+2024-04-03T07:25:54.721Z - error: Invalid Patient Not Found
+2024-04-03T07:25:59.342Z - error: Invalid Patient Not Found
+2024-04-03T07:25:59.378Z - error: Invalid Patient Not Found
+2024-04-03T07:26:15.306Z - error: Invalid Patient Not Found
+2024-04-03T07:26:20.332Z - error: Invalid Patient Not Found
+2024-04-03T07:26:20.367Z - error: Invalid Patient Not Found
+2024-04-03T07:26:46.683Z - error: Invalid Patient Not Found
+2024-04-03T07:26:56.739Z - error: Invalid Patient Not Found
+2024-04-03T07:26:56.779Z - error: Invalid Patient Not Found
+2024-04-03T07:38:42.752Z - error: Invalid Patient Not Found
+2024-04-03T07:39:12.630Z - error: Invalid Patient Not Found
+2024-04-03T07:39:19.568Z - error: Invalid Patient Not Found
+2024-04-03T07:39:19.597Z - error: Invalid Patient Not Found
+2024-04-03T07:39:29.411Z - error: Invalid Patient Not Found
+2024-04-03T07:39:47.458Z - error: Invalid Patient Not Found
+2024-04-03T07:41:04.402Z - error: Invalid Patient Not Found
+2024-04-03T07:41:42.555Z - error: Invalid Patient Not Found
+2024-04-03T07:41:47.709Z - error: Invalid Patient Not Found
+2024-04-03T07:41:47.746Z - error: Invalid Patient Not Found
+2024-04-03T07:42:14.674Z - error: Invalid Patient Not Found
+2024-04-03T07:42:21.917Z - error: Invalid Patient Not Found
+2024-04-03T07:42:21.945Z - error: Invalid Patient Not Found
+2024-04-03T07:42:37.179Z - error: Invalid Patient Not Found
+2024-04-03T07:42:48.668Z - error: Invalid Patient Not Found
+2024-04-03T07:43:05.678Z - error: Invalid Patient Not Found
+2024-04-03T07:43:21.761Z - error: Invalid Patient Not Found
+2024-04-03T07:46:21.690Z - error: Invalid Patient Not Found
+2024-04-03T07:47:01.312Z - error: Invalid Patient Not Found
+2024-04-03T07:47:43.534Z - error: Invalid Patient Not Found
+2024-04-03T07:47:50.032Z - error: Invalid Patient Not Found
+2024-04-03T07:47:50.057Z - error: Invalid Patient Not Found
+2024-04-03T07:48:17.889Z - error: Invalid Patient Not Found
+2024-04-03T07:48:21.354Z - error: Invalid Patient Not Found
+2024-04-03T07:48:21.382Z - error: Invalid Patient Not Found
+2024-04-03T07:54:18.449Z - error: Invalid Patient Not Found
+2024-04-03T07:56:11.346Z - error: Invalid Patient Not Found
+2024-04-03T07:56:37.787Z - error: Invalid Patient Not Found
+2024-04-03T07:56:42.477Z - error: Invalid Patient Not Found
+2024-04-03T07:56:42.504Z - error: Invalid Patient Not Found
+2024-04-03T07:56:57.661Z - error: Invalid Patient Not Found
+2024-04-03T07:57:52.862Z - error: Invalid Patient Not Found
+2024-04-03T07:57:56.284Z - error: Invalid Patient Not Found
+2024-04-03T07:57:56.307Z - error: Invalid Patient Not Found
+2024-04-03T07:58:06.675Z - error: Invalid Patient Not Found
+2024-04-03T07:58:11.661Z - error: Invalid Patient Not Found
+2024-04-03T07:58:11.684Z - error: Invalid Patient Not Found
+2024-04-03T07:58:30.418Z - error: Invalid Patient Not Found
+2024-04-03T07:58:48.153Z - error: Invalid Patient Not Found
+2024-04-03T08:03:13.017Z - error: Invalid Patient Not Found
+2024-04-03T08:24:15.449Z - error: Invalid Patient Not Found
+2024-04-03T08:24:18.904Z - error: Invalid Patient Not Found
+2024-04-03T08:24:18.930Z - error: Invalid Patient Not Found
+2024-04-03T08:24:33.425Z - error: Invalid Patient Not Found
+2024-04-03T08:24:36.350Z - error: Invalid Patient Not Found
+2024-04-03T08:24:36.376Z - error: Invalid Patient Not Found
+2024-04-03T08:24:47.668Z - error: Invalid Patient Not Found
+2024-04-03T08:25:44.755Z - error: Invalid Patient Not Found
+2024-04-03T08:27:52.679Z - error: Invalid Patient Not Found
+2024-04-03T08:28:13.703Z - error: Invalid Patient Not Found
+2024-04-03T08:28:49.631Z - error: Invalid Patient Not Found
+2024-04-03T08:28:56.848Z - error: Invalid Patient Not Found
+2024-04-03T08:28:56.870Z - error: Invalid Patient Not Found
+2024-04-03T08:29:22.592Z - error: Invalid Patient Not Found
+2024-04-03T08:29:50.435Z - error: Invalid Patient Not Found
+2024-04-03T08:30:09.198Z - error: Invalid Patient Not Found
+2024-04-03T08:30:13.049Z - error: Invalid Patient Not Found
+2024-04-03T08:30:13.072Z - error: Invalid Patient Not Found
+2024-04-03T08:30:38.272Z - error: Invalid Patient Not Found
+2024-04-03T08:30:41.311Z - error: Invalid Patient Not Found
+2024-04-03T08:30:41.335Z - error: Invalid Patient Not Found
+2024-04-03T08:30:46.063Z - error: Invalid Patient Not Found
+2024-04-03T08:30:46.088Z - error: Invalid Patient Not Found
+2024-04-03T08:30:57.271Z - error: Invalid Patient Not Found
+2024-04-03T08:31:00.518Z - error: Invalid Patient Not Found
+2024-04-03T08:31:00.543Z - error: Invalid Patient Not Found
+2024-04-03T08:31:11.211Z - error: Invalid Patient Not Found
+2024-04-03T08:31:15.655Z - error: Invalid Patient Not Found
+2024-04-03T08:31:15.672Z - error: Invalid Patient Not Found
+2024-04-03T08:31:40.053Z - error: Invalid Patient Not Found
+2024-04-03T08:31:42.918Z - error: Invalid Patient Not Found
+2024-04-03T08:31:42.942Z - error: Invalid Patient Not Found
+2024-04-03T08:34:57.686Z - error: Invalid Patient Not Found
+2024-04-03T08:35:38.342Z - error: Invalid Patient Not Found
+2024-04-03T08:35:42.753Z - error: Invalid Patient Not Found
+2024-04-03T08:35:42.776Z - error: Invalid Patient Not Found
+2024-04-03T08:35:51.079Z - error: Invalid Patient Not Found
+2024-04-03T08:35:55.856Z - error: Invalid Patient Not Found
+2024-04-03T08:35:55.872Z - error: Invalid Patient Not Found
+2024-04-03T08:37:43.704Z - error: Invalid Patient Not Found
+2024-04-03T08:37:48.622Z - error: Invalid Patient Not Found
+2024-04-03T08:37:48.650Z - error: Invalid Patient Not Found
+2024-04-03T08:38:08.684Z - error: Invalid Patient Not Found
+2024-04-03T08:38:20.746Z - error: Invalid Patient Not Found
+2024-04-03T08:38:24.282Z - error: Invalid Patient Not Found
+2024-04-03T08:38:24.311Z - error: Invalid Patient Not Found
+2024-04-03T08:39:05.697Z - error: Invalid Patient Not Found
+2024-04-03T08:39:09.442Z - error: Invalid Patient Not Found
+2024-04-03T08:39:09.470Z - error: Invalid Patient Not Found
+2024-04-03T08:40:26.692Z - error: Invalid Patient Not Found
+2024-04-03T08:42:07.804Z - error: Invalid Patient Not Found
+2024-04-03T08:42:07.831Z - error: Invalid Patient Not Found
+2024-04-03T09:13:03.706Z - error: Invalid Patient Not Found
+2024-04-03T09:13:08.843Z - error: Invalid Patient Not Found
+2024-04-03T09:13:08.875Z - error: Invalid Patient Not Found
+2024-04-03T09:13:23.108Z - error: Invalid Patient Not Found
+2024-04-03T09:13:46.728Z - error: Invalid Patient Not Found
+2024-04-03T09:13:49.924Z - error: Invalid Patient Not Found
+2024-04-03T09:13:49.954Z - error: Invalid Patient Not Found
+2024-04-03T09:14:02.581Z - error: Invalid Patient Not Found
+2024-04-03T09:14:20.527Z - error: Invalid Patient Not Found
+2024-04-03T09:14:31.310Z - error: Invalid Patient Not Found
+2024-04-03T09:14:46.367Z - error: Invalid Patient Not Found
+2024-04-03T09:14:57.707Z - error: Invalid Patient Not Found
+2024-04-03T09:15:15.690Z - error: Invalid Patient Not Found
+2024-04-03T09:15:20.414Z - error: Invalid Patient Not Found
+2024-04-03T09:15:54.355Z - error: Invalid Patient Not Found
+2024-04-03T09:16:30.304Z - error: Invalid Patient Not Found
+2024-04-03T09:16:35.288Z - error: Invalid Patient Not Found
+2024-04-03T09:16:35.312Z - error: Invalid Patient Not Found
+2024-04-03T09:16:56.499Z - error: Invalid Patient Not Found
+2024-04-03T09:17:00.164Z - error: Invalid Patient Not Found
+2024-04-03T09:17:00.192Z - error: Invalid Patient Not Found
+2024-04-03T09:17:19.308Z - error: Invalid Patient Not Found
+2024-04-03T09:17:30.685Z - error: Invalid Patient Not Found
+2024-04-03T09:17:34.471Z - error: Invalid Patient Not Found
+2024-04-03T09:17:34.499Z - error: Invalid Patient Not Found
+2024-04-03T09:17:47.864Z - error: Invalid Patient Not Found
+2024-04-03T09:18:15.926Z - error: Invalid Patient Not Found
+2024-04-03T09:18:20.261Z - error: Invalid Patient Not Found
+2024-04-03T09:18:20.285Z - error: Invalid Patient Not Found
+2024-04-03T09:18:40.034Z - error: Invalid Patient Not Found
+2024-04-03T09:18:43.825Z - error: Invalid Patient Not Found
+2024-04-03T09:18:43.849Z - error: Invalid Patient Not Found
+2024-04-03T09:20:10.680Z - error: Invalid Patient Not Found
+2024-04-03T09:20:18.640Z - error: Invalid Patient Not Found
+2024-04-03T09:20:18.663Z - error: Invalid Patient Not Found
+2024-04-03T09:20:34.023Z - error: Invalid Patient Not Found
+2024-04-03T09:22:49.498Z - error: Invalid Patient Not Found
+2024-04-03T09:23:56.705Z - error: Invalid Patient Not Found
+2024-04-03T09:24:44.695Z - error: Invalid Patient Not Found
+2024-04-03T09:24:51.426Z - error: Invalid Patient Not Found
+2024-04-03T09:24:51.458Z - error: Invalid Patient Not Found
+2024-04-03T09:25:33.078Z - error: Invalid Patient Not Found
+2024-04-03T09:25:33.101Z - error: Invalid Patient Not Found
+2024-04-03T09:25:51.411Z - error: Invalid Patient Not Found
+2024-04-03T09:26:02.768Z - error: Invalid Patient Not Found
+2024-04-03T09:26:02.793Z - error: Invalid Patient Not Found
+2024-04-03T09:26:15.687Z - error: Invalid Patient Not Found
+2024-04-03T09:26:35.714Z - error: Invalid Patient Not Found
+2024-04-03T09:26:41.256Z - error: Invalid Patient Not Found
+2024-04-03T09:26:41.284Z - error: Invalid Patient Not Found
+2024-04-03T09:27:18.678Z - error: Invalid Patient Not Found
+2024-04-03T09:28:04.683Z - error: Invalid Patient Not Found
+2024-04-03T09:28:13.318Z - error: Invalid Patient Not Found
+2024-04-03T09:28:13.348Z - error: Invalid Patient Not Found
+2024-04-03T09:28:42.679Z - error: Invalid Patient Not Found
+2024-04-03T09:30:34.689Z - error: Invalid Patient Not Found
+2024-04-03T09:30:46.138Z - error: Invalid Patient Not Found
+2024-04-03T09:30:46.164Z - error: Invalid Patient Not Found
+2024-04-03T09:32:18.871Z - error: Invalid Patient Not Found
+2024-04-03T09:33:20.677Z - error: Invalid Patient Not Found
+2024-04-03T09:33:32.670Z - error: Invalid Patient Not Found
+2024-04-03T09:33:42.162Z - error: Invalid Patient Not Found
+2024-04-03T09:33:42.183Z - error: Invalid Patient Not Found
+2024-04-03T09:33:57.318Z - error: Invalid Patient Not Found
+2024-04-03T09:34:19.329Z - error: Invalid Patient Not Found
+2024-04-03T09:34:28.682Z - error: Invalid Patient Not Found
+2024-04-03T09:35:00.677Z - error: Invalid Patient Not Found
+2024-04-03T09:35:05.719Z - error: Invalid Patient Not Found
+2024-04-03T09:35:05.744Z - error: Invalid Patient Not Found
+2024-04-03T09:35:29.538Z - error: Invalid Patient Not Found
+2024-04-03T09:36:08.800Z - error: Invalid Patient Not Found
+2024-04-03T09:36:22.407Z - error: Invalid Patient Not Found
+2024-04-03T09:36:54.288Z - error: Invalid Patient Not Found
+2024-04-03T09:37:16.431Z - error: Invalid Patient Not Found
+2024-04-03T09:37:29.341Z - error: Invalid Patient Not Found
+2024-04-03T09:37:46.205Z - error: Invalid Patient Not Found
+2024-04-03T09:37:52.197Z - error: Invalid Patient Not Found
+2024-04-03T09:37:52.225Z - error: Invalid Patient Not Found
+2024-04-03T09:38:00.697Z - error: Invalid Patient Not Found
+2024-04-03T09:39:20.692Z - error: Invalid Patient Not Found
+2024-04-03T09:39:41.866Z - error: Invalid Patient Not Found
+2024-04-03T09:39:45.467Z - error: Invalid Patient Not Found
+2024-04-03T09:39:45.490Z - error: Invalid Patient Not Found
+2024-04-03T09:39:53.721Z - error: Invalid Patient Not Found
+2024-04-03T09:40:04.346Z - error: Invalid Patient Not Found
+2024-04-03T09:40:07.665Z - error: Invalid Patient Not Found
+2024-04-03T09:40:07.693Z - error: Invalid Patient Not Found
+2024-04-03T09:40:42.115Z - error: Invalid Patient Not Found
+2024-04-03T09:41:05.680Z - error: Invalid Patient Not Found
+2024-04-03T09:42:11.141Z - error: Invalid Patient Not Found
+2024-04-03T09:42:35.750Z - error: Invalid Patient Not Found
+2024-04-03T09:43:39.675Z - error: Invalid Patient Not Found
+2024-04-03T09:49:15.903Z - error: Invalid Patient Not Found
+2024-04-03T09:49:15.935Z - error: Invalid Patient Not Found
+2024-04-03T09:49:37.711Z - error: Invalid Patient Not Found
+2024-04-03T09:50:06.791Z - error: Invalid Patient Not Found
+2024-04-03T09:50:23.412Z - error: Invalid Patient Not Found
+2024-04-03T09:50:45.913Z - error: Invalid Patient Not Found
+2024-04-03T09:50:51.161Z - error: Invalid Patient Not Found
+2024-04-03T09:50:51.190Z - error: Invalid Patient Not Found
+2024-04-03T09:51:15.154Z - error: Invalid Patient Not Found
+2024-04-03T09:51:18.364Z - error: Invalid Patient Not Found
+2024-04-03T09:51:18.398Z - error: Invalid Patient Not Found
+2024-04-03T09:51:43.310Z - error: Invalid Patient Not Found
+2024-04-03T09:52:07.178Z - error: Invalid Patient Not Found
+2024-04-03T09:52:10.062Z - error: Invalid Patient Not Found
+2024-04-03T09:52:10.094Z - error: Invalid Patient Not Found
+2024-04-03T09:53:07.983Z - error: Invalid Patient Not Found
+2024-04-03T09:54:09.686Z - error: Invalid Patient Not Found
+2024-04-03T09:54:17.688Z - error: Invalid Patient Not Found
+2024-04-03T09:54:17.712Z - error: Invalid Patient Not Found
+2024-04-03T09:54:47.713Z - error: Invalid Patient Not Found
+2024-04-03T09:56:18.006Z - error: Invalid Patient Not Found
+2024-04-03T09:56:25.682Z - error: Invalid Patient Not Found
+2024-04-03T09:56:25.702Z - error: Invalid Patient Not Found
+2024-04-03T09:56:55.710Z - error: Invalid Patient Not Found
+2024-04-03T09:57:03.319Z - error: Invalid Patient Not Found
+2024-04-03T09:57:03.340Z - error: Invalid Patient Not Found
+2024-04-03T10:00:21.466Z - error: Invalid Patient Not Found
+2024-04-03T10:00:48.693Z - error: Invalid Patient Not Found
+2024-04-03T10:01:05.025Z - error: Invalid Patient Not Found
+2024-04-03T10:01:21.867Z - error: Invalid Patient Not Found
+2024-04-03T10:01:25.365Z - error: Invalid Patient Not Found
+2024-04-03T10:01:25.393Z - error: Invalid Patient Not Found
+2024-04-03T10:01:46.598Z - error: Invalid Patient Not Found
+2024-04-03T10:01:50.259Z - error: Invalid Patient Not Found
+2024-04-03T10:01:50.283Z - error: Invalid Patient Not Found
+2024-04-03T10:02:08.133Z - error: Invalid Patient Not Found
+2024-04-03T10:02:23.690Z - error: Invalid Patient Not Found
+2024-04-03T10:02:38.239Z - error: Invalid Patient Not Found
+2024-04-03T10:02:58.164Z - error: Invalid Patient Not Found
+2024-04-03T10:03:18.310Z - error: Invalid Patient Not Found
+2024-04-03T10:03:32.140Z - error: Invalid Patient Not Found
+2024-04-03T10:03:34.673Z - error: Invalid Patient Not Found
+2024-04-03T10:03:34.704Z - error: Invalid Patient Not Found
+2024-04-03T10:03:56.612Z - error: Invalid Patient Not Found
+2024-04-03T10:04:03.735Z - error: Invalid Patient Not Found
+2024-04-03T10:04:03.760Z - error: Invalid Patient Not Found
+2024-04-03T10:04:15.377Z - error: Invalid Patient Not Found
+2024-04-03T10:04:18.813Z - error: Invalid Patient Not Found
+2024-04-03T10:04:18.841Z - error: Invalid Patient Not Found
+2024-04-03T10:04:40.566Z - error: Invalid Patient Not Found
+2024-04-03T10:04:44.270Z - error: Invalid Patient Not Found
+2024-04-03T10:04:44.299Z - error: Invalid Patient Not Found
+2024-04-03T10:05:15.720Z - error: Invalid Patient Not Found
+2024-04-03T10:05:20.405Z - error: Invalid Patient Not Found
+2024-04-03T10:05:20.434Z - error: Invalid Patient Not Found
+2024-04-03T10:05:34.240Z - error: Invalid Patient Not Found
+2024-04-03T10:05:48.692Z - error: Invalid Patient Not Found
+2024-04-03T10:06:02.215Z - error: Invalid Patient Not Found
+2024-04-03T10:06:02.236Z - error: Invalid Patient Not Found
+2024-04-03T10:06:23.534Z - error: Invalid Patient Not Found
+2024-04-03T10:08:16.074Z - error: Invalid Patient Not Found
+2024-04-03T10:09:18.689Z - error: Invalid Patient Not Found
+2024-04-03T10:09:34.860Z - error: Invalid Patient Not Found
+2024-04-03T10:09:38.398Z - error: Invalid Patient Not Found
+2024-04-03T10:09:38.419Z - error: Invalid Patient Not Found
+2024-04-03T10:09:56.922Z - error: Invalid Patient Not Found
+2024-04-03T10:10:16.157Z - error: Invalid Patient Not Found
+2024-04-03T10:10:30.411Z - error: Invalid Patient Not Found
+2024-04-03T10:11:32.272Z - error: Invalid Patient Not Found
+2024-04-03T10:12:03.496Z - error: Invalid Patient Not Found
+2024-04-03T10:12:25.823Z - error: Invalid Patient Not Found
+2024-04-03T10:13:00.704Z - error: Invalid Patient Not Found
+2024-04-03T10:13:22.607Z - error: Invalid Patient Not Found
+2024-04-03T10:14:23.815Z - error: Invalid Patient Not Found
+2024-04-03T10:14:23.838Z - error: Invalid Patient Not Found
+2024-04-03T10:15:25.933Z - error: Invalid Patient Not Found
+2024-04-03T10:15:29.524Z - error: Invalid Patient Not Found
+2024-04-03T10:15:29.549Z - error: Invalid Patient Not Found
+2024-04-03T10:15:40.334Z - error: Invalid Patient Not Found
+2024-04-03T10:15:44.661Z - error: Invalid Patient Not Found
+2024-04-03T10:15:44.695Z - error: Invalid Patient Not Found
+2024-04-03T10:15:59.750Z - error: Invalid Patient Not Found
+2024-04-03T10:16:27.552Z - error: Invalid Patient Not Found
+2024-04-03T10:16:54.122Z - error: Invalid Patient Not Found
+2024-04-03T10:16:58.333Z - error: Invalid Patient Not Found
+2024-04-03T10:16:58.362Z - error: Invalid Patient Not Found
+2024-04-03T10:17:24.683Z - error: Invalid Patient Not Found
+2024-04-03T10:17:28.475Z - error: Invalid Patient Not Found
+2024-04-03T10:17:28.501Z - error: Invalid Patient Not Found
+2024-04-03T10:17:46.712Z - error: Invalid Patient Not Found
+2024-04-03T10:18:10.493Z - error: Invalid Patient Not Found
+2024-04-03T10:18:30.680Z - error: Invalid Patient Not Found
+2024-04-03T10:19:35.550Z - error: Invalid Patient Not Found
+2024-04-03T10:20:54.594Z - error: Invalid Patient Not Found
+2024-04-03T10:21:18.521Z - error: Invalid Patient Not Found
+2024-04-03T10:24:38.343Z - error: Invalid Patient Not Found
+2024-04-03T10:24:38.365Z - error: Invalid Patient Not Found
+2024-04-03T10:25:59.895Z - error: Invalid Patient Not Found
+2024-04-03T10:26:15.221Z - error: Invalid Patient Not Found
+2024-04-03T10:26:37.824Z - error: Invalid Patient Not Found
+2024-04-03T10:26:57.143Z - error: Invalid Patient Not Found
+2024-04-03T10:27:03.079Z - error: Invalid Patient Not Found
+2024-04-03T10:27:03.107Z - error: Invalid Patient Not Found
+2024-04-03T10:27:15.641Z - error: Invalid Patient Not Found
+2024-04-03T10:27:22.283Z - error: Invalid Patient Not Found
+2024-04-03T10:27:22.311Z - error: Invalid Patient Not Found
+2024-04-03T10:28:14.361Z - error: Invalid Patient Not Found
+2024-04-03T10:28:47.446Z - error: Invalid Patient Not Found
+2024-04-03T10:28:53.391Z - error: Invalid Patient Not Found
+2024-04-03T10:28:53.417Z - error: Invalid Patient Not Found
+2024-04-03T10:29:25.768Z - error: Invalid Patient Not Found
+2024-04-03T10:29:50.623Z - error: Invalid Patient Not Found
+2024-04-03T10:30:11.619Z - error: Invalid Patient Not Found
+2024-04-03T10:30:14.537Z - error: Invalid Patient Not Found
+2024-04-03T10:30:14.565Z - error: Invalid Patient Not Found
+2024-04-03T10:30:51.167Z - error: Invalid Patient Not Found
+2024-04-03T10:31:47.331Z - error: Invalid Patient Not Found
+2024-04-03T10:31:50.955Z - error: Invalid Patient Not Found
+2024-04-03T10:31:50.978Z - error: Invalid Patient Not Found
+2024-04-03T10:32:33.996Z - error: Invalid Patient Not Found
+2024-04-03T10:32:57.614Z - error: Invalid Patient Not Found
+2024-04-03T10:33:03.886Z - error: Invalid Patient Not Found
+2024-04-03T10:33:03.905Z - error: Invalid Patient Not Found
+2024-04-03T10:33:14.263Z - error: Invalid Patient Not Found
+2024-04-03T10:33:43.911Z - error: Invalid Patient Not Found
+2024-04-03T10:33:51.587Z - error: Invalid Patient Not Found
+2024-04-03T10:33:51.607Z - error: Invalid Patient Not Found
+2024-04-03T10:34:14.684Z - error: Invalid Patient Not Found
+2024-04-03T10:34:38.465Z - error: Invalid Patient Not Found
+2024-04-03T10:34:56.785Z - error: Invalid Patient Not Found
+2024-04-03T10:35:07.672Z - error: Invalid Patient Not Found
+2024-04-03T10:35:39.689Z - error: Invalid Patient Not Found
+2024-04-03T10:35:56.023Z - error: Invalid Patient Not Found
+2024-04-03T10:36:07.308Z - error: Invalid Patient Not Found
+2024-04-03T10:36:21.395Z - error: Invalid Patient Not Found
+2024-04-03T10:36:37.676Z - error: Invalid Patient Not Found
+2024-04-03T10:36:55.117Z - error: Invalid Patient Not Found
+2024-04-03T10:37:18.692Z - error: Invalid Patient Not Found
+2024-04-03T10:37:25.690Z - error: Invalid Patient Not Found
+2024-04-03T10:37:25.718Z - error: Invalid Patient Not Found
+2024-04-03T10:37:40.277Z - error: Invalid Patient Not Found
+2024-04-03T11:17:50.710Z - error: Invalid Patient Not Found
+2024-04-03T11:17:53.957Z - error: Invalid Patient Not Found
+2024-04-03T11:17:53.986Z - error: Invalid Patient Not Found
+2024-04-03T11:19:10.651Z - info: MongoDB connected
+2024-04-03T11:19:54.769Z - info: MongoDB connected
+2024-04-03T11:20:02.009Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:20:02.018Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:20:03.753Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:20:03.761Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:20:04.694Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:20:04.701Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:20:04.882Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:20:04.891Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:20:05.104Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:20:05.115Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:20:40.776Z - info: MongoDB connected
+2024-04-03T11:20:45.269Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:20:45.282Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:21:41.808Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:21:54.953Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:21:54.970Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:24:01.709Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:24:01.719Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:24:45.988Z - info: MongoDB connected
+2024-04-03T11:25:16.349Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:25:19.850Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:25:19.861Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:26:04.612Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:28:41.663Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:28:44.179Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:28:44.187Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:29:51.643Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:35:37.578Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:35:40.056Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:35:40.064Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:35:50.420Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:36:53.009Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T11:37:19.317Z - error: Invalid Patient Not Found
+2024-04-03T11:37:19.443Z - error: Invalid Patient Not Found
+2024-04-03T11:37:36.855Z - error: Invalid Patient Not Found
+2024-04-03T11:38:05.305Z - error: Invalid Patient Not Found
+2024-04-03T11:38:43.685Z - error: Invalid Patient Not Found
+2024-04-03T11:38:59.941Z - error: Invalid Patient Not Found
+2024-04-03T11:39:21.695Z - error: Invalid Patient Not Found
+2024-04-03T11:39:51.612Z - error: Invalid Patient Not Found
+2024-04-03T11:41:09.714Z - error: Invalid Patient Not Found
+2024-04-03T11:41:46.010Z - error: Invalid Patient Not Found
+2024-04-03T11:42:05.960Z - error: Invalid Patient Not Found
+2024-04-03T11:42:09.752Z - error: Invalid Patient Not Found
+2024-04-03T11:42:09.785Z - error: Invalid Patient Not Found
+2024-04-03T11:42:29.475Z - error: Invalid Patient Not Found
+2024-04-03T11:42:48.376Z - error: Invalid Patient Not Found
+2024-04-03T11:43:06.919Z - error: Invalid Patient Not Found
+2024-04-03T11:43:17.754Z - error: Invalid Patient Not Found
+2024-04-03T11:43:45.951Z - error: Invalid Patient Not Found
+2024-04-03T11:43:57.911Z - error: Invalid Patient Not Found
+2024-04-03T11:44:36.669Z - error: Invalid Patient Not Found
+2024-04-03T11:44:39.991Z - error: Invalid Patient Not Found
+2024-04-03T11:44:40.030Z - error: Invalid Patient Not Found
+2024-04-03T11:45:36.694Z - error: Invalid Patient Not Found
+2024-04-03T11:45:40.305Z - error: Invalid Patient Not Found
+2024-04-03T11:45:40.343Z - error: Invalid Patient Not Found
+2024-04-03T11:45:59.806Z - error: Invalid Patient Not Found
+2024-04-03T11:46:03.046Z - error: Invalid Patient Not Found
+2024-04-03T11:46:03.083Z - error: Invalid Patient Not Found
+2024-04-03T11:46:23.882Z - error: Invalid Patient Not Found
+2024-04-03T11:46:38.824Z - error: Invalid Patient Not Found
+2024-04-03T11:46:42.193Z - error: Invalid Patient Not Found
+2024-04-03T11:46:42.241Z - error: Invalid Patient Not Found
+2024-04-03T11:47:01.686Z - error: Invalid Patient Not Found
+2024-04-03T11:47:05.060Z - error: Invalid Patient Not Found
+2024-04-03T11:47:05.110Z - error: Invalid Patient Not Found
+2024-04-03T11:50:37.486Z - error: Invalid admission date
+2024-04-03T11:51:49.602Z - error: Invalid admission date
+2024-04-03T11:54:43.034Z - error: Invalid admission date
+2024-04-03T11:55:15.905Z - error: Invalid admission date
+2024-04-03T11:57:11.788Z - error: Invalid admission date
+2024-04-03T11:58:28.150Z - info: New entry created in waiting list
+2024-04-03T12:05:45.298Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T12:05:45.306Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T12:05:45.313Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T12:05:45.333Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T12:08:34.151Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T12:08:34.158Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T12:08:34.165Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T12:08:34.178Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T13:09:40.287Z - info: Added beds successfully
+2024-04-03T13:10:21.986Z - info: Patient admitted successfully
+2024-04-03T13:14:54.926Z - info: MongoDB connected
+2024-04-03T13:17:48.664Z - info: Patient admitted successfully
+2024-04-03T13:18:28.315Z - error: Wards validation failed: wards.0.beds.5.medicalAcuity: Cast to string failed for value "[ 'Critical' ]" (type Array) at path "medicalAcuity"
+2024-04-03T13:18:42.296Z - error: Bad Request
+2024-04-03T13:18:51.426Z - error: Bad Request
+2024-04-03T13:19:09.221Z - info: MongoDB connected
+2024-04-03T13:19:12.945Z - error: Bad Request
+2024-04-03T13:20:30.110Z - info: MongoDB connected
+2024-04-03T13:20:34.561Z - error: Bad Request
+2024-04-03T13:22:31.991Z - info: MongoDB connected
+2024-04-03T13:22:35.895Z - error: Bad Request
+2024-04-03T13:25:33.167Z - info: MongoDB connected
+2024-04-03T13:26:25.190Z - info: MongoDB connected
+2024-04-03T13:27:13.351Z - info: 71.42857142857143
+2024-04-03T13:27:13.361Z - info: Patient discharged and bed record updated successfully.
+2024-04-03T13:28:37.913Z - info: MongoDB connected
+2024-04-03T13:29:16.793Z - info: MongoDB connected
+2024-04-03T13:29:32.053Z - info: Patient admitted successfully
+2024-04-03T13:29:49.646Z - info: Patient transfer successful. Transfer bed marked as occupied.
+2024-04-03T13:30:19.651Z - info: Patient transfer successful. Transfer bed marked as occupied.
+2024-04-03T14:03:13.029Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:03:13.045Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:03:48.744Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:03:51.871Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:03:51.877Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:04:13.585Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:04:16.889Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:04:16.895Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:05:03.968Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:05:24.510Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:05:39.138Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:06:04.033Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:06:07.328Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:06:07.334Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:06:55.523Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:06:55.533Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:06:55.540Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:06:55.550Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:06:57.439Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:06:57.446Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:06:57.457Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:06:57.463Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:06:57.471Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:06:57.476Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:28:32.742Z - info: MongoDB connected
+2024-04-03T14:28:47.495Z - info: MongoDB connected
+2024-04-03T14:29:26.308Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:40:23.925Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:40:23.942Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:42:22.641Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:42:22.649Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:42:34.433Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:42:34.444Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:42:56.798Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:42:56.812Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:44:13.668Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:44:13.682Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:44:19.368Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:44:19.379Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:46:59.658Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:46:59.683Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:47:03.120Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:47:03.131Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:47:11.359Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:47:11.371Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:51:54.885Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:51:54.898Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:53:57.176Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:54:01.985Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:54:01.993Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:55:28.793Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:55:31.812Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:55:31.823Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:57:50.641Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:57:50.654Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:57:55.721Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T14:57:55.729Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:00:22.646Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:00:54.564Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:03:04.142Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:07:46.643Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:15:13.443Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:15:13.461Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:15:26.126Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:15:26.137Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:19:40.822Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:19:40.830Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:19:45.113Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:19:45.121Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:23:05.624Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:23:05.632Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:23:16.120Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:23:16.129Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:23:28.184Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:23:28.197Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:25:08.647Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:25:13.303Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:25:13.312Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:25:23.775Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:25:23.785Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:26:54.647Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:27:01.327Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:27:01.340Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:31:11.672Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:31:17.219Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:31:17.225Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:32:38.346Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:32:43.069Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:32:43.074Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:36:41.661Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:36:41.670Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:36:59.632Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:36:59.648Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:38:42.281Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:38:47.554Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:38:47.565Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:40:10.267Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:40:13.674Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:40:13.679Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:42:14.665Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:42:18.891Z - info: Retrieved patient care dashboard data successfully
+2024-04-03T15:42:18.897Z - info: Retrieved patient care dashboard data successfully

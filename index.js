@@ -10,18 +10,14 @@ const waitingRoutes=require('./waiting/waitingRoutes')
 const dashRoutes=require('./dashboard/dashroutes')
 const loginRoutes = require('./login/loginRoutes')
 const signupRoutes=require('./signup/signupRoutes')
-
+const nurseRoutes=require('./nursesignup/nurseRoutes')
 // Swagger documentation setup
 const swaggerUi = require('swagger-ui-express');
 const swaggerJsdoc = require('swagger-jsdoc');
 const swaggerOptions = require('./swagger/swaggerOptions');
 require('dotenv').config(); // Load environment variables
 
-// Connect to the database
-connectToDatabase();
 
-// Middleware
-app.use(express.json()); // Middleware to parse JSON bodies
 
 const cors = require('cors');
 // CORS configuration
@@ -31,7 +27,11 @@ app.use(
     origin: 'http://localhost:3000',
   })
 );
+// Connect to the database
+connectToDatabase();
 
+// Middleware
+app.use(express.json()); // Middleware to parse JSON bodies
 // Routes
 app.use('/', bedRoutes); // Bed routes
 app.use('/', admitRoutes); // Admit routes
@@ -40,6 +40,7 @@ app.use('/',dischargeRoutes);
 app.use('/',waitingRoutes);
 app.use('/',dashRoutes);
 app.use('/',loginRoutes)
+app.use('/',nurseRoutes)
 
 app.use('/',signupRoutes)
 

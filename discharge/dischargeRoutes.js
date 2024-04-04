@@ -103,5 +103,5 @@ const { dischargePatientValidationRules } = require('./dischargeValidator')
 //discharge:
 router.post('/distaa',dischargePatientValidationRules(),dischargePatient);
 //Get discharge
-router.get('/discharge',dischargeGets)
+router.get('/disGet',dischargeGets)
 module.exports=router;

@@ -37,6 +37,7 @@ const Dash7 = async (req, res) => {
       return {
         patientName: patient.patientName,
         medicalAcuity: acuity,
+        patientId:patient.patientId,
         riskScore: riskScore,
       };
     });

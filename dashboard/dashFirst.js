@@ -237,8 +237,47 @@ const patientCare = asyncHandler(async (req, res, next) => {
    }
 });
 
+//
 
-
+const patientCarealert = asyncHandler(async (req, res, next) => {
+    const patientsData = await Patient.find();
+    if (patientsData.length > 0) {
+        const formattedData = patientsData.map(patient => ({
+            name: patient.patientName,
+            medicalAcuity: patient.medicalAcuity,
+            assignedNurse: patient.assignedNurse,
+            tasks: patient.tasks,
+        }));
+ 
+        // Check for critical and moderate medical acuity
+        const criticalPatients = formattedData.filter(patient => patient.medicalAcuity === 'Critical');
+        const moderatePatients = formattedData.filter(patient => patient.medicalAcuity === 'Moderate');
+ 
+        // Trigger alerts for critical patients
+        if (criticalPatients.length > 0) {
+            criticalPatients.forEach(patient => {
+                console.log(`ALERT: Critical medical acuity detected for patient ${patient.name}`);
+                // You can trigger an alert mechanism here, such as sending an email or notification
+            });
+        }
+ 
+        // Trigger alerts for moderate patients
+        if (moderatePatients.length > 0) {
+            moderatePatients.forEach(patient => {
+                console.log(`ALERT: Moderate medical acuity detected for patient ${patient.name}`);
+                // You can trigger an alert mechanism here, such as sending an email or notification
+            });
+        }
+ 
+        // Return the formatted patient data
+        res.status(200).json({ patients: formattedData });
+        logger.info('Retrieved patient care dashboard data successfully');
+    } else {
+        const error = new Error('No patients found');
+        error.statusCode = 404;
+        throw error;
+    }
+ });
  
  
-module.exports = { paagHandler, patientCare, wardOccup,availablebed,bedAvailabilityBoard,getAdmissionDischarge};
+module.exports = { paagHandler, patientCare, wardOccup,availablebed,bedAvailabilityBoard,getAdmissionDischarge,patientCarealert};
