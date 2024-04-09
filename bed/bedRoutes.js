@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 
 
-const { addBeds, bedGet } = require('./bedController');
+const { addBeds, bedGet,getBedStatusPerWard ,getOccupancyTrends} = require('./bedController');
 
 /**
  * @swagger
@@ -76,4 +76,10 @@ router.post('/addbeds', addBeds);
 // GET endpoint to get all beds
 router.get('/bedGet', bedGet);
 
+router.get('/bed1d', getBedStatusPerWard);
+//router.get('/occupancytrends',getOccupancyTrends);
+router.get('/occupancytrends',getOccupancyTrends);
+
+
 module.exports = router;
+
